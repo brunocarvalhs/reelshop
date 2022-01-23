@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "135670379533",
+    "project_id": "reelsshop-66ba3",
+    "storage_bucket": "reelsshop-66ba3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135670379533:android:69a6e3ac3adae7830dd144",
+        "android_client_info": {
+          "package_name": "br.brunocarvalhs.reelshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135670379533-ep1rdhd3uaa6l6uvgtrus155cdotb9q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrq425_MfJAsHn69qZ-ld-zUGP4onvC38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135670379533-ep1rdhd3uaa6l6uvgtrus155cdotb9q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
